@@ -35,3 +35,8 @@ barang
 
 
 ## UX  Wireframe
+
+![Template](https://user-images.githubusercontent.com/113114382/189554520-55a1155a-09a4-499b-a2b9-184d962bf954.png)
+
+
+
