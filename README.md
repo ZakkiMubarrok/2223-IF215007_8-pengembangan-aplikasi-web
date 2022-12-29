@@ -104,6 +104,7 @@ Sebagai contoh, digambar dibawah ini saya memilih "etc" (1), lalu klik "Upload":
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/113114382/209984943-2a2ad624-a216-4874-8774-e5168bb1a86a.png">
 
 ## Dynamic Web Page using PHP
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/113114382/209987718-81a0f3b2-1474-4ed7-a657-8636b61a8052.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/113114382/209987577-f56ca3c3-13f0-42ff-9837-6f0eac84e868.png">
 
 ## News Site using Wordpress
