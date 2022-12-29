@@ -24,6 +24,7 @@
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/113114382/209966045-d8422543-703c-4a92-b188-c30b35010a1d.png">
 
 ## Linux Server Operation
+<img width="682" alt="image" src="https://user-images.githubusercontent.com/113114382/209981116-1aceb45b-b8ef-423c-9088-3e979328c595.png">
 
 ## Express Web Server Installation & Operation
 <img width="520" alt="image" src="https://user-images.githubusercontent.com/113114382/209966305-341ea4a8-376d-4cbe-b8ec-dac382fcc673.png">
