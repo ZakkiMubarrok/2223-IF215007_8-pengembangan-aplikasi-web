@@ -80,3 +80,32 @@ Sebagai contoh, digambar dibawah ini saya memilih "etc" (1), lalu klik "Upload":
 <img width="217" alt="image" src="https://user-images.githubusercontent.com/113114382/209967280-8e779c51-fd3e-4734-a05e-09a7f981949e.png">
 
 ## HTML Responsive Layout with Media Query & Flexbox
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/113114382/209983621-34f2cfd6-dab3-4952-9581-709dab6fe9ba.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/113114382/209983689-9c34dd67-81ed-4fcc-a9c8-791fdeeb4dc0.png">
+
+## Javascript Data Transformation
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/113114382/209983802-3cc4d562-0e26-4b12-acd7-c436a9a7459f.png">
+<img width="470" alt="image" src="https://user-images.githubusercontent.com/113114382/209983866-d479cd09-1ac3-4c63-9b29-4fd263502974.png">
+
+## Browser API - Event Handling, Local Storage, Element manipulation
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/113114382/209984214-03f5f214-a6a7-4ea8-9138-1f49dc98893b.png">
+
+## HTTP GET & POST using Form Action and Fetch API
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/113114382/209984393-89cd2828-cc06-4f6a-a94f-8eaca7ddc352.png">
+<img width="605" alt="image" src="https://user-images.githubusercontent.com/113114382/209984462-67900d15-bc02-49fb-b7fe-94eb9d9a596b.png">
+
+## HTML Responsive Layout with Bootstrap
+<img width="902" alt="image" src="https://user-images.githubusercontent.com/113114382/209984568-46de9568-f39d-476d-8a67-a75ac399d06d.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/113114382/209984613-c76cc0bc-245e-4c54-ba14-bd40e3a1a0cf.png">
+<img width="297" alt="image" src="https://user-images.githubusercontent.com/113114382/209984690-09baef76-70a6-47e9-a9de-f6c71e22237d.png">
+
+## Single Page App with React & React-router
+<img width="698" alt="image" src="https://user-images.githubusercontent.com/113114382/209984784-2686f8d4-e488-41ef-a8fd-f7e6b745d6a8.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/113114382/209984943-2a2ad624-a216-4874-8774-e5168bb1a86a.png">
+
+## Dynamic Web Page using PHP
+
+## News Site using Wordpress
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/113114382/209985485-dcfed87e-8a60-4ee4-a0c6-85a6c1f2e8ac.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/113114382/209985615-77f430e0-47a8-4154-b082-50150a751f9c.png">
+
